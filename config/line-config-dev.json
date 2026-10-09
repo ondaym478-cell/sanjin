@@ -1,6 +1,7 @@
 {
     "version": "1.0.0",
     "updateTime": "2025-11-08",
+    "hotUpdateBaseUrl": "https://vue.s3t7y9.com:8443",
     "lines": [
          {
             "domian": "111.shuangtanceshi.cfd"
